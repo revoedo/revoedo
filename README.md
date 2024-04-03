@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edosugita
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning learning everything
-- 🖥️ You can view my main GitHub at https://github.com/edosugita
+- 🖥️ You can view my main GitHub at github.com/edosugita
 - 📫 How to reach me edosugita.es@gmail.com
